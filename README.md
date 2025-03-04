@@ -18,7 +18,7 @@ Como dito no primeiro parágrafo, o projeto é bem simples e resume-se a explica
 
 ## MODO DE UTILIZAR
 * Clonar repositório.
-* No diretório 'python-venv-openpyxl', executar ```python -m venv venv``` para instalar o ambiente virtual.
+* No diretório 'python-venv-openpyxl02', executar ```python -m venv venv``` para instalar o ambiente virtual.
 * Executar ```pip install -r requirements.txt``` para instalar as dependências.
 * Executar, caso esteja no Windows, ```venv\Scripts\activate``` para iniciar o ambiente. Caso Linux ou MacOS, ```source venv/bin/activate```.
 * ```python app.py``` - Executa o algoritmo.
